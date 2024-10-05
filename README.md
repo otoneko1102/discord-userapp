@@ -1,4 +1,9 @@
 # discord-userapp
+
+```
+discord.js: ^13.17.1
+```
+
 ## Install
 [Install(Discord)](https://discord.com/oauth2/authorize?client_id=1275304068784324749)
 
