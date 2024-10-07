@@ -13,6 +13,7 @@
     "@discordjs/builders": "^1.7.0",
     "@discordjs/rest": "^2.2.0",
     "@iamtraction/google-translate": "^2.0.1",
+    "axios": "^1.7.7",
     "cjp": "^2.3.1",
     "discord-api-types": "^0.37.101",
     "discord.js": "^13.17.1",
@@ -20,6 +21,7 @@
     "fs-extra": "^11.2.0",
     "galjp": "^4.0.0",
     "isgd-api": "^1.1.1",
+    "jimp": "^0.22.12",
     "makeitaquote": "^7.0.1",
     "randplus": "^1.2.0",
     "unlimited-ai": "^2.0.2"

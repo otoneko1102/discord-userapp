@@ -64,7 +64,7 @@ for (const file of functionFiles) {
   console.log(`functions/${file} ready!`);
 }
 
-const regist = false;
+const regist = true;
 
 client.on('ready', async () => {
   if (regist) register(commands)
