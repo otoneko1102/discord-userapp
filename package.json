@@ -24,6 +24,7 @@
     "isgd-api": "^1.1.1",
     "jimp": "^0.22.12",
     "makeitaquote": "^7.0.3",
+    "node-fetch": "^2.7.0",
     "randplus": "^1.2.0",
     "unlimited-ai": "^2.0.2"
   }
