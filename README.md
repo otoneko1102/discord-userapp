@@ -1,6 +1,9 @@
 # discord-userapp
 
 ```
+node: ^16.14.2
+```
+```
 discord.js: ^13.17.1
 ```
 
