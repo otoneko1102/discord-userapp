@@ -1,6 +1,11 @@
 const { Client, Collection } = require('discord.js');
 const config = require('./config');
-const client = new Client({ intents: config.intents });
+const client = new Client({
+  intents: config.intents,
+  allowedMentions: {
+    parse: []
+  }
+});
 const { SlashCommandBuilder, ContextMenuCommandBuilder } = require('@discordjs/builders');
 const { REST } = require('@discordjs/rest');
 const { Routes, ApplicationCommandType } = require('discord-api-types/v10');
