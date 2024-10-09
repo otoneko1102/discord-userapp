@@ -18,7 +18,7 @@
     "cjp": "^2.3.1",
     "discord-api-types": "^0.37.101",
     "discord.js": "^13.17.1",
-    "displus": "^2.0.1",
+    "displus": "^2.1.0",
     "dotenv": "^16.4.5",
     "fs-extra": "^11.2.0",
     "galjp": "^4.0.0",
