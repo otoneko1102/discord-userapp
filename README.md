@@ -18,6 +18,8 @@ discord.js: ^13.17.1
 - etc
 
 ## Related Packages
+- [color-name-lib](https://www.npmjs.com/package/color-name-lib)
+- [convjp](https://www.npmjs.com/package/convjp)
 - [displus](https://www.npmjs.com/package/displus)
 - [galjp](https://www.npmjs.com/package/galjp)
 - [makeitaquote](https://www.npmjs.com/package/makeitaquote)
