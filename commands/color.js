@@ -1,6 +1,7 @@
 const { MessageEmbed } = require("discord.js");
 const { SlashCommandBuilder } = require("@discordjs/builders");
 const random = require('randplus');
+const colorName = require('color-name-lib');
 
 module.exports = {
   name: "color",
@@ -41,7 +42,7 @@ module.exports = {
       }
       const embed = new MessageEmbed()
         .setTitle('Color')
-        .setDescription(`RGB: ${hexToRgb(hex).join(', ')}\nHEX: #${hex}`)
+        .setDescription(`RGB: ${hexToRgb(hex).join(', ')}\nHEX: #${hex}\nNAME: ${colorName(hex)}, ${colorName(hex, 'ja')}`)
         .setColor(`#${hex}`)
         .setImage(`https://singlecolorimage.com/get/${hex}/400x100`);
       await int.reply({

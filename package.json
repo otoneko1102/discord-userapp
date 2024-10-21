@@ -15,9 +15,11 @@
     "@iamtraction/google-translate": "^2.0.1",
     "axios": "^1.7.7",
     "cjp": "^2.3.1",
-    "discord-api-types": "^0.37.101",
+    "color-name-lib": "^1.0.1",
+    "convjp": "^1.0.0",
+    "discord-api-types": "^0.37.102",
     "discord.js": "^13.17.1",
-    "displus": "^2.1.0",
+    "displus": "^2.2.1",
     "dotenv": "^16.4.5",
     "fs-extra": "^11.2.0",
     "galjp": "^4.0.0",
@@ -25,7 +27,7 @@
     "jimp": "^0.22.12",
     "makeitaquote": "^7.0.3",
     "node-fetch": "^2.7.0",
-    "randplus": "^3.0.0",
+    "randplus": "^5.1.2",
     "unlimited-ai": "^2.0.2"
   }
 }
