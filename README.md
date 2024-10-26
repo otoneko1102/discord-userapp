@@ -22,6 +22,8 @@ discord.js: ^13.17.1
 - [convjp](https://www.npmjs.com/package/convjp)
 - [displus](https://www.npmjs.com/package/displus)
 - [galjp](https://www.npmjs.com/package/galjp)
+- [google-finance-quote](https://www.npmjs.com/package/google-finance-quote)
+- [latest-yahoo-news](https://www.npmjs.com/package/latest-yahoo-news)
 - [makeitaquote](https://www.npmjs.com/package/makeitaquote)
 - [randplus](https://www.npmjs.com/package/randplus)
 - [unlimited-ai](https://www.npmjs.com/package/unlimited-ai)
